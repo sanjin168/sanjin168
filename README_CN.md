@@ -1,4 +1,5 @@
-##👋 Hi there
+## 👋 Hello
+
 ### 🎯 Rust 开发者｜Solana & Web3 构建者｜安全爱好者
 ---
 
@@ -21,9 +22,9 @@
 - 与他人协作开发 Rust 开源项目
 
 ## 🌍 联系我
-🐦 Twitter/X: @xxxxx
-💬 Discord: xxxx#0000
-💼 LinkedIn: linkedin.com/in/xxxxx
-📧 Email: xxxx@email.com
+- 🐦 Twitter/X: @xxxxx
+- 💬 Discord: xxxx#0000
+- 💼 LinkedIn: linkedin.com/in/xxxxx
+- 📧 Email: xxxx@email.com
 
 #### ⭐️ “不要去寻找机会，用代码创造机会。”
