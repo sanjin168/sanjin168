@@ -11,11 +11,11 @@
 ---
 
 ## ⚙️ 技术栈
-语言： Rust, JavaScript/TypeScript, Bash
-框架： Anchor, Axum, Actix, React
-区块链： Solana, SPL Token, Web3.js
-数据库： PostgreSQL, Redis
-工具： Git, Docker, Linux, Vim
+- 语言： Rust, JavaScript/TypeScript, Bash
+- 框架： Anchor, Axum, Actix, React
+- 区块链： Solana, SPL Token, Web3.js
+- 数据库： PostgreSQL, Redis
+- 工具： Git, Docker, Linux, Vim
 
 ## 学习方向与目标
 - 深入掌握 Solana 与 Anchor 智能合约开发
