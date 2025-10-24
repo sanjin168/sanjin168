@@ -18,10 +18,11 @@
 ---
 
 ### 🧩 Featured Projects
-Project | Description | Tech
-🔗 solana-token-minter |	A DApp to mint and transfer SPL tokens on Solana Devnet |	Rust, Anchor, React
-⚡ rust-http-scanner |	A high-performance async HTTP scanner written in Rust | Tokio, Reqwest
-🪙 anchor-nft-platform |	An NFT mint & metadata demo using Anchor framework | Rust, Solana, React
+| Project | Description | Tech |
+| :---- | :---- | :---- |
+| 🔗 solana-token-minter |	A DApp to mint and transfer SPL tokens on Solana Devnet |	Rust, Anchor, React |
+| ⚡ rust-http-scanner |	A high-performance async HTTP scanner written in Rust | Tokio, Reqwest |
+| 🪙 anchor-nft-platform |	An NFT mint & metadata demo using Anchor framework | Rust, Solana, React |
 
 ---
 
