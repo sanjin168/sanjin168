@@ -32,5 +32,9 @@ Project | Description | Tech
 ---
 
 ### 🌍 Connect with Me
+- 🐦 Twitter/X: @xxxxx
+- 💬 Discord: xxxx#0000
+- 💼 LinkedIn: linkedin.com/in/xxxxx
+- 📧 Email: xxxx@email.com
 
 #### “Don’t find opportunities — build them with code.”
